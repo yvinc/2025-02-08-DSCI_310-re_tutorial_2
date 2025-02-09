@@ -46,6 +46,7 @@ Midterm review 1--tutorial 2
 
     - git add: Git add adds changes from the current working directory to the staging area.
     - git commit: Git commit commits a snap shot of the current changes made in the current working directory. 🐈‍⬛
+
 3. Push this branch and create a PR, but DO NOT merge it
 
 4. On your local machine, go back to your main branch
