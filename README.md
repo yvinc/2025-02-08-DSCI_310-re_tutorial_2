@@ -26,6 +26,7 @@ Midterm review 1--tutorial 2
 
     - **branch**: create a 'copy' of the repo off the main branch. In this separate branch, changes can be made without affecting anything in the main branch. 
     - **pull request**: is a proposal made on Github to merge changes from one branch into another branch (typically into the main branch).
+        - (This is an addition line to practice one more pull request b1 --> main)
 
 3. Push your branch up to github and create a pull request
 
