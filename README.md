@@ -36,8 +36,7 @@ Midterm review 1--tutorial 2
 
 6. Update your local main branch
 
-
-(done?)
+(done)
 
 ## Part 3: Merge Conflicts (Extra)
 
