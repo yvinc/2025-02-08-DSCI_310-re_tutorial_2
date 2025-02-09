@@ -44,7 +44,7 @@ Midterm review 1--tutorial 2
 2. Create a new branch from main, edit the readme file, at the top and define the follow terms
 
     - **git add**: adding a to-be-specified local file to the staging area before file is commited and pushed onto the remote repo.
-    - **git commit**: give a snapshot of all added changes from the current working directory. 
+    - **git commit**: give a snapshot of all added changes from the current working directory. 🐈‍
 3. Push this branch and create a PR, but DO NOT merge it
 
 4. On your local machine, go back to your main branch
