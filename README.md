@@ -34,7 +34,8 @@ Midterm review 1--tutorial 2
 
 6. Update your local main branch
 
-(done)
+
+(done?)
 
 ## Part 3: Merge Conflicts (Extra)
 
@@ -60,4 +61,5 @@ Midterm review 1--tutorial 2
 
 8. Try to merge both branches now, you should see a merge conflict when you try to merge the 2nd branch
 
-(done)
+
+(done?)
