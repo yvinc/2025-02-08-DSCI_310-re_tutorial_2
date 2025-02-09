@@ -24,8 +24,10 @@ Midterm review 1--tutorial 2
 
 2. In the new branch define the following terms:
 
-    - branch
-    - pull request
+    - **branch**: create a 'copy' of the repo off the main branch. In this separate branch, changes can be made without affecting anything in the main branch. 
+    - **pull request**: is a proposal made on Github to merge changes from one branch into another branch (typically into the main branch).
+        - (This is an addition line to practice one more pull request b1 --> main)
+
 3. Push your branch up to github and create a pull request
 
 4. Make a comment in your own pull request
@@ -34,8 +36,7 @@ Midterm review 1--tutorial 2
 
 6. Update your local main branch
 
-
-(done?)
+(done)
 
 ## Part 3: Merge Conflicts (Extra)
 
@@ -43,8 +44,9 @@ Midterm review 1--tutorial 2
 
 2. Create a new branch from main, edit the readme file, at the top and define the follow terms
 
-    - git add
-    - git commit
+    - git add: Git add adds changes from the current working directory to the staging area.
+    - git commit: Git commit commits a snap shot of the current changes made in the current working directory. 🐈‍⬛
+
 3. Push this branch and create a PR, but DO NOT merge it
 
 4. On your local machine, go back to your main branch
